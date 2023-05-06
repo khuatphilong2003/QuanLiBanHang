@@ -17,7 +17,8 @@ const Welcome = (props) => {
       </View>
     
       <View style={{alignItems:'center',margin:40}}>
-        <Text style={{fontSize:30,color:'black'}}>FOOD AND DRINK</Text>
+        <Text style={{fontSize:30,color:'black'}}>Food and drink</Text>
+
       </View>
 
     </View>
