@@ -1,0 +1,275 @@
+{
+  "tbUsers": [
+    {
+      "username": "Admin",
+      "fullanme": "LongAdmin",
+      "password": "123",
+      "email": "Longkpph26309@fpt.edu.vn",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "NhanVien",
+      "fullanme": "LongStaff",
+      "password": "123",
+      "email": "Longkpph26309@fpt.edu.vn",
+      "role": "nhanvien"
+    },
+    {
+      "id": 3,
+      "username": "User",
+      "fullanme": "LongUser",
+      "password": "123",
+      "email": "Longkpph26309@fpt.edu.vn",
+      "role": "user"
+    },
+    {
+      "username": "LongUser",
+      "fullanme": "Khuat User",
+      "password": "123",
+      "email": "Longmg",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "User123",
+      "fullanme": "LongUser123",
+      "password": "123",
+      "email": "user@gmail.com",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "tbTable": [
+    {
+      "name": "Ban so 1",
+      "status": "Không trống",
+      "id": 1
+    },
+    {
+      "name": "Ban so 2",
+      "status": "Không trống",
+      "id": 2
+    },
+    {
+      "name": "Bàn số 3",
+      "status": "Không trống",
+      "id": 3
+    },
+    {
+      "name": "Bàn số 4",
+      "status": "Không trống",
+      "id": 4
+    },
+    {
+      "name": "Ban so 5",
+      "status": "Không trống",
+      "id": 5
+    }
+  ],
+  "tbFood": [
+    {
+      "name": "Do uong 2",
+      "price": "123",
+      "id": 2
+    },
+    {
+      "name": "Do uong 3",
+      "price": "12313",
+      "id": 3
+    },
+    {
+      "name": "Do uong 4",
+      "price": "12313",
+      "id": 4
+    },
+    {
+      "name": "Do uong 5",
+      "price": "12313",
+      "id": 5
+    },
+    {
+      "name": "Do uong 6",
+      "price": "123",
+      "id": 6
+    },
+    {
+      "name": "Do uong 7",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "name": "Món ngon 7",
+      "price": "1",
+      "id": 8
+    },
+    {
+      "name": "Ngon",
+      "price": "1.2",
+      "id": 9
+    }
+  ],
+  "tbOrder": [
+    {
+      "tableId": 1,
+      "date": "2023/05/4",
+      "time": "10:27",
+      "items": [
+        {
+          "name": "Do uong 1",
+          "price": "123",
+          "quantity": "2"
+        }
+      ],
+      "total": 246,
+      "id": 2
+    },
+    {
+      "tableId": 2,
+      "date": "2023/05/4",
+      "time": "11:52",
+      "items": [
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "1"
+        }
+      ],
+      "total": 123,
+      "id": 3
+    },
+    {
+      "tableId": 2,
+      "date": "2023/06/4",
+      "time": "11:52",
+      "items": [
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "1"
+        }
+      ],
+      "total": 123,
+      "id": 6
+    },
+    {
+      "tableId": 2,
+      "date": "2023/05/12",
+      "time": "11:52",
+      "items": [
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "1"
+        }
+      ],
+      "total": 123,
+      "id": 4
+    },
+    {
+      "tableId": 2,
+      "date": "2024/05/4",
+      "time": "11:52",
+      "items": [
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "1"
+        }
+      ],
+      "total": 123,
+      "id": 5
+    },
+    {
+      "tableId": "",
+      "date": "2023/05/4",
+      "time": "13:46",
+      "items": [
+        {
+          "name": "Do uong 1",
+          "price": "123",
+          "quantity": "12"
+        },
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "21"
+        },
+        {
+          "name": "Do uong 3",
+          "price": "12313",
+          "quantity": "1"
+        }
+      ],
+      "total": 16372,
+      "id": 7
+    },
+    {
+      "tableId": 1,
+      "date": "2023/05/4",
+      "time": "13:46",
+      "items": [
+        {
+          "name": "Do uong 1",
+          "price": "123",
+          "quantity": "12"
+        },
+        {
+          "name": "Do uong 2",
+          "price": "123",
+          "quantity": "21"
+        },
+        {
+          "name": "Do uong 3",
+          "price": "12313",
+          "quantity": "1"
+        }
+      ],
+      "total": 16372,
+      "id": 8
+    },
+    {
+      "tableId": 1,
+      "date": "2023/05/4",
+      "time": "16:17",
+      "items": [
+        {
+          "name": "Do uong 1",
+          "price": "123",
+          "quantity": "2"
+        }
+      ],
+      "total": 246,
+      "id": 9
+    },
+    {
+      "tableId": 4,
+      "date": "2023/05/5",
+      "time": "0:35",
+      "items": [
+        {
+          "name": "Mon",
+          "price": "1,1",
+          "quantity": "4"
+        }
+      ],
+      "total": 4,
+      "id": 10
+    },
+    {
+      "tableId": 4,
+      "date": "2023/05/5",
+      "time": "0:41",
+      "items": [
+        {
+          "name": "Ngon",
+          "price": "1.2",
+          "quantity": "1"
+        }
+      ],
+      "total": 1.2,
+      "id": 11
+    }
+  ]
+}
